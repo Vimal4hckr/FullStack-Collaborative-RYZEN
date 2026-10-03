@@ -5,4 +5,5 @@ We provides dashboard for real world market growth and job market culture reflec
 
 Our Contributors are:
 Saravanakumar S
-NaveenkumarMuralidharan - Naveenkumar247
+NaveenkumarMuralidharan 
+Sanjay Sriram S
